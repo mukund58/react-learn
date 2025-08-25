@@ -23,7 +23,7 @@ Replace the image paths with your actual files.
 
 |04-props |05-bgChanger | |
 |:---:|:---:|:---:|
-| <a href="https://github.com/mukund58/react-learn/tree/master/04-props/playing%20with%20props"><img src="public/04-props.png" alt="Props and Componets" width="360"></a> | <a href="public/05-bgChanger.png"><img src="public/05-bgChanger.png" alt="" width="360"></a> | <a href="public/"><img src="public/" alt="" width="360"></a> |
+| <a href="https://github.com/mukund58/react-learn/tree/master/04-props/playing%20with%20props"><img src="public/04-props.png" alt="Props and Componets" width="360"></a> | <a href="https://github.com/mukund58/react-learn/tree/master/05-bgChanger/bgChnage"><img src="public/05-bgChanger.png" alt="" width="360"></a> | <a href="public/"><img src="public/" alt="" width="360"></a> |
 | <strong>Creating Componets Using Props</strong> | <strong>Background Changer</strong> | <strong></strong> |
 
 ## Learn More
