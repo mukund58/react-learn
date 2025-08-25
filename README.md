@@ -19,7 +19,7 @@ A simple repository to learn and experiment with React and with mini projects.
 
 ## Screenshots
 
-Replace the image paths with your actual files.
+Mini Projects
 
 |04-props |05-bgChanger | |
 |:---:|:---:|:---:|
